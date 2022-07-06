@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Tyrion Lannister",
+        "img":"ambition",
+        "quotes" : ["Never forget what you are, the rest of the world will not. Wear it like armor and it can never be used to hurt you.","I have to disagree. Death is so final, yet life is full of possibilities.","I drink and I know things.","It’s not easy being drunk all the time. If it were easy, everyone would do it.","If you’re going to be a cripple, it’s better to be a rich cripple."]
+    },
+    {
+        "name":"Walter White",
+        "img":"calm",
+        "quotes":["You Clearly Don’t Know Who You’re Talking To, So Let Me Clue You In. I Am Not In Danger, Skyler. I Am The Danger. A Guy Opens His Door And Gets Shot, And You Think That Of Me? No! I Am The One Who Knocks!","Fuck you, and your eyebrows.","If you don't know who I am, then maybe your best course would be to tread lightly.","I did it for me. I liked it. I was good at it. And, i was really... I was alive.","Jesse, you asked me if I was in the meth business, or the money business... Neither. I'm in the Empire business.","Say my name.","Stay out of my terrirory.","Nobody fucks with the blowfish."]
+    },
+    {
+        "name":"Captain Jack Sparrow",
+        "img":"focus",
+        "quotes":["This is the day you will always remember as the day you almost caught Captain Jack Sparrow","I've got a jar of dirt.","I’m Dishonest, And A Dishonest Man You Can Always Trust To Be Dishonest.","But you HAVE heard of me." ,"No survivors? Then where do the stories come from, I wonder." , "Why is the rum always gone?" , "I do that quite a lot yet people are always surprised."]
+    },
+    {
+        "name":"Michael Scott",
+        "img":"reflect",
+        "quotes":["That's what she said.","Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.","You know what they say ‘Fool me once, strike one, but fool me twice… strike three.’","I’m not superstitious but I am a little stitious.","I am Beyonce, always.","Tell him to call me ASAP as possible.","Dwight, you ignorant slut."]
+    }
+    
+]
