@@ -19,7 +19,7 @@ struct ContentView: View {
         NavigationView {
             VStack{
                 VStack{
-                    Text("Authors")
+                    Text("Characters")
                         .font(.title)
                         .padding(.top,30)
                         .padding(.leading,30)
